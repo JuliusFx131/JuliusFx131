@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julius Mwangi.<br>
 - 🌱 I’m currently ranked as the top data scientist in Kenya and position 5 out of 70000+ data scientists on Zindi platform.
 - 🔬I have worked on problems in domains such as in Natural Language Processing, Computer Vision and Timeseries and delivered great solutions.
-- ✨The most exciting solution was featured as the best solution from a student in the COP28 2023 summit in Dubai-check first pinned repo, on energy saving
+- ✨The most exciting solution was featured as the best solution from a student in the COP28 2023 summit in Dubai-check first pinned repo, on energy consumption modelling
 - 🏆For more work I have done, you can check my certificate here: https://zindi.africa/users/JuliusFx/competitions/certificate
 - ⚡ I'm open to work and also collaborate on projects.
