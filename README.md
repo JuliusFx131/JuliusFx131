@@ -1,3 +1,5 @@
 - 👋 Hi, I’m Julius Mwangi.<br>
-- 🌱 I’m currently learning Machine Learning, using Python.
+- 🌱 I’m currently ranked as the top data scientist in Kenya and position 5 out of 70000+ data scientists on Zindi platform.
+- 🔬I have worked on problems in NLP, computer vision and timeseries and delivered great solution
+- 🏆You can check my certificate here: https://zindi.africa/users/JuliusFx/competitions/certificate
 - ⚡ I'm open to work and also collaborate on projects.
