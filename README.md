@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Julius Mwangi.<br>
-- 🌱 I’m currently ranked as the top data scientist in Kenya and position 5 out of 70000+ data scientists on Zindi platform.
-- 🔬I have worked on problems in domains such as in Natural Language Processing, Computer Vision and Timeseries and delivered great solutions.
-- ✨The most exciting solution was featured as the best solution from a student in the COP28 2023 summit in Dubai-check first pinned repo, on energy consumption modelling
-- 🏆For more work I have done, you can check my certificate here: https://zindi.africa/users/JuliusFx/competitions/certificate
+- 🌱 I am a passionate data scientist based in Kenya, having ranked 1st out of over 70,000 data scientists on the Zindi platform and currently remain in the top 5.
+- 🔬 I have worked on problems in domains such as in Natural Language Processing, Computer Vision and Timeseries and delivered great solutions.
+- ✨ The most exciting solution was featured as the best solution from a student in the COP28 2023 summit in Dubai:https://github.com/JuliusFx131/ITU-5G-Energy-Consumption-Modelling-Challenge
+- 🏆 Check our this certificate on more than 20 problem statements I have undertakent: https://zindi.africa/users/JuliusFx/competitions/certificate
 - ⚡ I'm open to work and also collaborate on projects. I have previously collaborated with ITU-5G CHALLENGE and ITU-GeoAI-Challenge in writing technical reports to various problem statements
 - 🔬 You can contact me through email: 📧 julmngii@gmail.com
